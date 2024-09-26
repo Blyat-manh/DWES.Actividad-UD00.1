@@ -37,13 +37,13 @@ public class CalculaNominas {
 			int opcion;
 
 			while (!salir) {
-
-				System.out.println("1. Opcion 1: Mostrar los datos de todos los empleados.");
-				System.out.println("2. Opcion 2: Mostar salario de empleado.");
-				System.out.println("3. Opcion 3: Edicion de empleados.");
-				System.out.println("4. Opcion 4: Recalcular y actualizar el sueldo de un empleado.");
-				System.out.println("5. Opcion 5: Recalcular y actualizar los sueldos de tods los empleados.");
-				System.out.println("6. Opcion 6: Copia de seguridad.");
+				System.out.println("----------------------------------------------------------");
+				System.out.println("1. Mostrar los datos de todos los empleados.");
+				System.out.println("2. Mostar salario de empleado.");
+				System.out.println("3. Edicion de empleados.");
+				System.out.println("4. Recalcular y actualizar el sueldo de un empleado.");
+				System.out.println("5. Recalcular y actualizar los sueldos de tods los empleados.");
+				System.out.println("6. Copia de seguridad.");
 				System.out.println("7. Salir");
 
 				try {
