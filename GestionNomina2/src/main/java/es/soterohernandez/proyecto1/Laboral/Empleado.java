@@ -49,5 +49,11 @@ public class Empleado extends Persona{
 	public int getAnyos() {
 		return anyos;
 	}
+
+	public void setAnyos(int anyos) {
+		this.anyos = anyos;
+	}
+
+	
 	
 }
